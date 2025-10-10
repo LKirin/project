@@ -1,1 +1,1 @@
-# Vacuum-robot
+# Calculating equivalent circuit resistance
