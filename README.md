@@ -1,1 +1,1 @@
-# Calculating equivalent circuit resistance
+# Project
